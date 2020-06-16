@@ -1,0 +1,60 @@
+G:\3rd Year\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.deps.json
+G:\3rd Year\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.json
+G:\3rd Year\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.dev.json
+G:\3rd Year\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.dll
+G:\3rd Year\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.pdb
+G:\3rd Year\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csproj.CoreCompileInputs.cache
+G:\3rd Year\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cache
+G:\3rd Year\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cs
+G:\3rd Year\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfoInputs.cache
+G:\3rd Year\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfo.cs
+G:\3rd Year\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorTargetAssemblyInfo.cache
+G:\3rd Year\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.dll
+G:\3rd Year\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.pdb
+G:\3rd Year\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csprojAssemblyReference.cache
+G:\3rdYear\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.deps.json
+G:\3rdYear\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.json
+G:\3rdYear\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.dev.json
+G:\3rdYear\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.dll
+G:\3rdYear\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.pdb
+G:\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csproj.CoreCompileInputs.cache
+G:\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cache
+G:\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cs
+G:\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfoInputs.cache
+G:\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfo.cs
+G:\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorTargetAssemblyInfo.cache
+G:\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.dll
+G:\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.pdb
+G:\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.deps.json
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.json
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.dev.json
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.dll
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.pdb
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cache
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cs
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfoInputs.cache
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfo.cs
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorTargetAssemblyInfo.cache
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.dll
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.pdb
+\\adir.hull.ac.uk\home\554\554423\3rdYear\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csprojAssemblyReference.cache
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.deps.json
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.json
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.runtimeconfig.dev.json
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.dll
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\bin\Debug\netcoreapp2.2\DistSysACW.pdb
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csprojAssemblyReference.cache
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.csproj.CoreCompileInputs.cache
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cache
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorAssemblyInfo.cs
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfoInputs.cache
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.AssemblyInfo.cs
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.RazorTargetAssemblyInfo.cache
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.dll
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.pdb
+C:\Users\onayo\OneDrive\3rd Year\Distributed Systems\DistSysACW\DistSysACW\obj\Debug\netcoreapp2.2\DistSysACW.genruntimeconfig.cache

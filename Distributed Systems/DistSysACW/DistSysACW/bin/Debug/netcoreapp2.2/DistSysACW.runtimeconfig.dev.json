@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\onayo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\onayo\\.nuget\\packages"
+    ]
+  }
+}
